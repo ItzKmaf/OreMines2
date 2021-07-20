@@ -1,0 +1,10 @@
+main: com.orecraft.oremines.OreMines
+name: oreMines
+version: 1.0.0
+description: Adding Mines since 2021
+author: Kmaf
+
+commands:
+  om:
+    description: The main menu
+    aliases: [oremines]
